@@ -96,21 +96,6 @@ This will start the server on port 3000. You can access the server at http://loc
 
 You can add `-d` flag to run the server in detached mode.
 
-### Heroku
-Host your own instance of the api on heroku using the button below.
-
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/riimuru/gogoanime/tree/main)
-
-### Render
-Host your own instance of the api on render using the button below.
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/riimuru/gogoanime-api)
-
-### Railway
-Host your own instance of the api on railway using the button below.
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Lg6DEp?referralCode=dv4TuD)
-
 ## Routes
 Below you'll find examples using [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) but you can use any other http library out there.
 
